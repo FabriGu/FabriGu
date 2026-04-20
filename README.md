@@ -65,3 +65,4 @@ Currently running ITP's Fabrication Shop. Previously McCann NY, ADEAM, NYU CREAT
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:C084FC,100:E9D5FF&height=100&section=footer" />
+
