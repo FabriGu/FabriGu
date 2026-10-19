@@ -36,7 +36,6 @@ Currently running ITP's Fabrication Shop. Previously McCann NY, ADEAM, NYU CREAT
 ### stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=FabriGu&show_icons=true&title_color=c4b5fd&icon_color=a78bfa&text_color=e2e0eb&bg_color=0c0a1a&border_color=7c3aed&hide_border=false&count_private=true" />
   &nbsp;
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabriGu&layout=compact&title_color=c4b5fd&text_color=e2e0eb&bg_color=0c0a1a&border_color=7c3aed&hide_border=false&langs_count=8" />
 </div>
